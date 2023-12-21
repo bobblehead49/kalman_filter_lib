@@ -1,0 +1,14 @@
+<package format="2">
+  <name>kalman_filter_lib</name>
+  <version>0.0.0</version>
+  <description>The kalman_filter_lib package</description>
+
+  <maintainer email="kosuke@todo.todo">kosuke</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>cmake_modules</depend>
+
+</package>
